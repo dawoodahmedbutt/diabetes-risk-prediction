@@ -13,6 +13,7 @@ venv/
 
 # ---- OS / Editor junk ----
 .DS_Store
+._*
 Thumbs.db
 .vscode/
 .idea/
