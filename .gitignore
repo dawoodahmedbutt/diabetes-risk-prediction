@@ -32,3 +32,4 @@ figures/results/*
 
 # ---- Virtual Environments ----
 .venv/
+.claude/
